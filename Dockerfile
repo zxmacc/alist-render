@@ -1,4 +1,4 @@
-FROM xhofe/alist:v2.6.0
+FROM xhofe/alist:v2.5.0
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
